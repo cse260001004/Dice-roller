@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dice Roller</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎲 Dice Roller</h1>
+ 
+    <!-- The dice are drawn here by JavaScript -->
+    <div id="dice" class="dice"></div>
+ 
+    <!-- Shows the number rolled / total -->
+    <p id="result" class="result">Click a button to roll!</p>
+ 
+    <div class="buttons">
+      <button id="roll1">Roll 1 Die</button>
+      <button id="roll2">Roll 2 Dice</button>
+    </div>
+ 
+    <h2>History (last 5 rolls)</h2>
+    <button id="clearHistory" class="clear-btn">Clear History</button>
+    <ul id="history" class="history"></ul>
+  </div>
+ 
+  <script src="script.js"></script>
+</body>
+</html>
+ 

@@ -21,13 +21,13 @@ A simple and interactive dice roller website built using HTML, CSS, and JavaScri
 
 🚀 How to Run
 
-Download or clone this repository.
+* Download or clone this repository.
 
-Open the project folder in VS Code.
+* Open the project folder in VS Code.
 
-Open index.html in your browser.
+* Open index.html in your browser.
 
-No additional packages or installation are required.
+* No additional packages or installation are required.
 
 🎲 How Randomness Works
 
@@ -39,8 +39,11 @@ The animation may show temporary values before the final dice results appear.
 
 Dice-Roller/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 ## 📸 Screenshots

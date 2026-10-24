@@ -5,11 +5,16 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #1e293b;
-  color: white;
+  background: linear-gradient(skyblue ,lightgreen );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  color: rgb(255, 255, 255);
   text-align: center;
 }
- 
+ h2{
+    font-style: italic;
+ }
 .container {
   max-width: 500px;
   margin: 0 auto;
@@ -67,6 +72,7 @@ body {
 .result {
   font-size: 22px;
   font-weight: bold;
+  font-style: inherit;
 }
  
 .buttons {

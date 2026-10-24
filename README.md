@@ -48,7 +48,7 @@ Dice-Roller/
 
 ## 📸 Screenshots
 
-![DiceLab website](screenshots/dice-roller.png)
+![DiceLab website](screenshots/Dice-roller.png)
 
 👨‍💻 Author
 

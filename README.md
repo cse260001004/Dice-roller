@@ -53,3 +53,9 @@ Dice-Roller/
 👨‍💻 Author
 
 Created as a beginner web development project to practise HTML, CSS, and JavaScript.
+
+# 🎲 DiceLab — Dice Roller Website
+
+🌐 **Live Demo:** [Click here to use DiceLab](https://cse260001004.github.io/Dice-roller/)
+
+A simple and interactive dice roller website built using HTML, CSS, and JavaScript. Roll one or two dice, view the total, and check your recent roll history.
